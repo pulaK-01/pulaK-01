@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ...PULAK MONDAL
 - 👀 I’m interested in ...Competitive Programming & Quantitive Programming
 - 🌱 I’m currently learning ...C-Programing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pulak_01@icloud.com
 
 <!---
